@@ -1,1 +1,3 @@
 # Leedcode problems
+
+Some leetcode problems that i want to resolve...
