@@ -12,3 +12,5 @@ class Solution:
         #substract number of appearence of common elements...
         #Substraction operation!!
         return not len(Counter(ransomNote) - Counter(magazine))
+
+    
