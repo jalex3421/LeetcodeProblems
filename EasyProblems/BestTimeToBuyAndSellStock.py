@@ -30,3 +30,5 @@ class Solution:
             #update right pointer in one unit
             right += 1
         return max_profit
+
+    
