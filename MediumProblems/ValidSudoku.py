@@ -29,3 +29,5 @@ class Solution:
         subset = [i for i in subset if i != '.']
         #return comparison between lengths
         return (len(set(subset)) == len(subset))
+
+    
