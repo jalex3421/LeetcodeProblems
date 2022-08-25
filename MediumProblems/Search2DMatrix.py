@@ -24,3 +24,5 @@ class Solution:
             else:
                 end = mid        
         return (matrix[beginning//columns][beginning%columns] == target)
+    
+    
